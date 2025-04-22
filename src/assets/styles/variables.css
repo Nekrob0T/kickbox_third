@@ -1,0 +1,16 @@
+:root {
+  --primary-bg: #ffffff;
+  --secondary-bg: #f7f7f7;
+  --tertiary-bg: #ededed;
+
+  --primary-text: #1a1a1a;
+  --secondary-text: #5a5a5a;
+
+  --brand: #ff3366;
+  --brand-hover: #ff6699;
+
+  --link: #ff3366;
+  --link-hover: #ff88aa;
+
+  --app-max-width: 1140px;
+}
